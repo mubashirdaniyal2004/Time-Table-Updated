@@ -1,26 +1,79 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-  
-  h1 , h3{
-      text-align: center;
-      text-decoration: underline;
-      padding: 10px;
-  }
+  margin: 0;
+  padding: 0;
+}
 
-  table{
-    text-align: center;
-    margin: 1em;
-  }
-  
-  thead{
-    background-color: lightblue;
-  }
+h1,
+h3 {
+  text-align: center;
+  text-decoration: underline;
+  padding: 10px;
+}
 
-  .tb{
-    margin-top: 30px;
-  }
-  thead{
-    margin-bottom: 40px;
-  }
+table {
+  text-align: center;
+  margin: 1em;
+}
+
+thead {
+  background-color: lightblue;
+}
+
+.tb {
+  margin-top: 30px;
+}
+thead {
+  margin-bottom: 40px;
+}
+
+.weeks {
+  background-color: lightblue;
+}
+
+.AIA {
+  background-color: goldenrod;
+}
+
+.AIB {
+  background-color: greenyellow;
+}
+
+.wma {
+  background-color: rgb(181, 119, 119);
+}
+
+.wmb {
+  background-color: grey;
+}
+
+.wmc {
+  background-color: darkgrey;
+}
+
+.wms {
+  background-color: burlywood;
+}
+
+.break {
+  background-color: rgb(80, 63, 63);
+}
+
+.vea {
+  background-color: yellow;
+}
+
+.veb {
+  background-color: yellowgreen;
+}
+
+.ga {
+  background-color: blueviolet;
+}
+
+.gab {
+  background-color: violet;
+}
+
+.null {
+  background-color: black;
+}
